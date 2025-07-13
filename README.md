@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm hananoja!
 
-<!--
-**hananoja/hananoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm a university student studying meteorology and remote sensing
+- 🛠 I develop Python tools (image processing, automation, GUI apps)
+- 🤖 I'm interested in AI x productivity (e.g. auto-generating product descriptions)
 
-Here are some ideas to get you started:
+### 🧰 Skills:
+- Python, C
+- GitHub, JupyterLab, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects:
+- Mars satellite image click-to-CSV 
+- Product description generator from images
