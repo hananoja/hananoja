@@ -5,7 +5,7 @@
 - 🤖 I'm interested in AI x productivity (e.g. auto-generating product descriptions)
 
 ### 🧰 Skills:
-- Python, C
+- Python, 
 - GitHub, JupyterLab, VSCode
 
 ### 📌 Projects:
